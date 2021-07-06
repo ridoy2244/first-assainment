@@ -24,6 +24,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 p{
     text-align: justify;
 }
@@ -52,5 +55,31 @@ p{
 .my-image{
     width: 100%;
 }
+
+
+.descripsion{
+    text-align: center;
+    padding-top: 40px;
+}
+.descripsion p{
+    text-align: center;
+}
+.flaxible-food-item{
+    display: flex;
+    margin:0 40px;
+    
+}
+.food-item{
+    width: 30%;
+    margin: 5%; 
+    padding:20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+}
+.food-item img{
+    width: 100%;
+}
+
+
 
 
