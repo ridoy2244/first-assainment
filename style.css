@@ -30,11 +30,15 @@ p{
 .text-color{
     color: orange;
 }
+#back-image{
+    background-image: url(images/7.png);
+}
 .flaxible-item{
     display: flex;
     align-items: center;
     margin:30px 40px;
     padding-bottom: 40px;
+    padding-right: 40px;
 }
 
 .link-btn{
